@@ -53,6 +53,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.0.1 -> fixing some outdated versions of indirect dependencies
 * 1.0.0 -> first try
 
 ## Contact
