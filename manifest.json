@@ -1,12 +1,11 @@
 {
   "name": "SinglePlayer_ModPack",
   "description": "My personal selection of mods including config changes for a nice and challenging play through, also including changes for Mistlands",
-  "version_number": "1.0.1",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/FelixReuthlinger/MistlandsSinglePlayer",
   "dependencies": [
     "Smoothbrain-Mining-1.1.3",
     "Smoothbrain-ConversionSizeAndSpeed-1.0.9",
-    "Smoothbrain-Blacksmithing-1.2.0",
     "Smoothbrain-Farming-2.1.6",
     "Smoothbrain-PassivePowers-1.0.6",
     "Smoothbrain-SteadyRegeneration-1.0.1",
