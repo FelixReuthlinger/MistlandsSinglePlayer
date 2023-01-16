@@ -49,7 +49,6 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 ## Hints 
 
 * You can also use this modpack to do coop playing, but if you will join any server using this, it might not work ;)
-* Do not update Auto Map Pins to version 1.2.0 -> seems buggy to me, or did I do wrong?
 
 ## Change log
 
