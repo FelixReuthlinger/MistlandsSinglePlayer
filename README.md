@@ -36,7 +36,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 * Deezy Mistballs -> radius 50m 
 * Auto Picker -> don't pick Dandelions
 * Path Finder -> reduced discovery radius to something that looks similar to the range one can see dependent on conditions
-* Auto Map Pins -> removed seeds and berries
+* Auto Map Pins -> some that I sense to be valuable I did set to be shown
 * Crafty Boxes -> range to 50m
 * Extended Inventory -> added 2 rows to default inventory (Auto Store seems buggy with last row tho)
 * Discard item yields 40% used resources back
@@ -52,6 +52,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.0.6 -> several mod upgrades
 * 1.0.5 -> EL upgrade
 * 1.0.4 -> adjustments
 * 1.0.3 -> a little less challenging
