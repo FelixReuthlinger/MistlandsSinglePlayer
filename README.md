@@ -49,9 +49,11 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 ## Hints 
 
 * You can also use this modpack to do coop playing, but if you will join any server using this, it might not work ;)
+* You can toggle auto-picking items with "P + right shift"
 
 ## Change log
 
+* 1.1.0 -> ok, this was too easy, let's make it harder and less item drops
 * 1.0.6 -> several mod upgrades
 * 1.0.5 -> EL upgrade
 * 1.0.4 -> adjustments
