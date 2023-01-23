@@ -1,7 +1,7 @@
 {
   "name": "SinglePlayer_ModPack",
   "description": "My personal selection of mods including config changes for a nice and challenging play through, also including changes for Mistlands",
-  "version_number": "1.1.1",
+  "version_number": "1.1.2",
   "website_url": "https://github.com/FelixReuthlinger/MistlandsSinglePlayer",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -25,7 +25,7 @@
     "OdinPlus-OdinsCraftyBoxes-1.0.8",
     "OdinPlus-OdinsExtendedInventory-3.0.3",
     "OdinPlus-OdinsInventoryDiscard-1.0.2",
-    "RandyKnapp-EpicLoot-0.9.7",
+    "RandyKnapp-EpicLoot-0.9.8",
     "RandyKnapp-EquipmentAndQuickSlots-2.1.1",
     "Same-AutoPicker-1.1.4",
     "Smoothbrain-Building-1.2.3",
