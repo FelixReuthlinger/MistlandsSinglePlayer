@@ -9,12 +9,11 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 ## Features
 
 * Base building and handling simplified by larger workbench ranges, ward range, ward making buildings indestructible
-* Auto store provides easier storage of items (can be laggy with many boxes in short range)
+* Container handling with auto storing, restocking, trashing, etc.
 * Crafting will get less tedious, no wait time, multi crafting possible
 * Craft and build from boxes, no need to pick and drop things into your inventory anymore
 * Farming improved too mass farm "shift"
 * Auto picking up items as you walk along, no need to press "E" that many times
-* Discard items with "delete" key, get some parts of resources spent back
 * Exploration radius increased and acts on visibility conditions (weather, height)
 * Set of extra skills to train that yield better resource and 
 * Production tooling improved with bigger smelter, etc. storage and faster outputs
@@ -39,7 +38,6 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 * Auto Map Pins -> some that I sense to be valuable I did set to be shown
 * Crafty Boxes -> range to 50m
 * Extended Inventory -> added 2 rows to default inventory (Auto Store seems buggy with last row tho)
-* Discard item yields 40% used resources back
 * Conversion size and speed -> increased the storage and throughput
 * CLLC -> set to "very hard" and world age, activated all extras, etc. -> I die a lot, so you will, or not? ;)
 * Extra skills -> experience increased and yield increased
@@ -53,6 +51,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.1.3 -> replaced auto storing and discarding with better implementations, added multi user chests
 * 1.1.2 -> hard, harder, insane hard - but maybe little bit more drops
 * 1.1.1 -> adding no skill drain as replacement for death tweaks
 * 1.1.0 -> ok, this was too easy, let's make it harder and less item drops
