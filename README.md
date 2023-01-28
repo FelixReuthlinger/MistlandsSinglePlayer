@@ -21,7 +21,6 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 * Enchanted loot and enchant mats drop from creates with higher levels
 * Forsaken power used passively instead of active
 * Equipment and quick slots
-* Improved rendering (requires good hardware) to little bit further render distances
 * Any portal targeting instead of point-to-point connections
 * ... many more, you will find out ;)
 
@@ -51,6 +50,8 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.1.6 -> mod updates
+* 1.1.5 -> removed rendering limits, since it might not work smoothly with non-high-performance pcs
 * 1.1.4 -> small mod upgrade
 * 1.1.3 -> replaced auto storing and discarding with better implementations, added multi user chests (might require fresh profile)
 * 1.1.2 -> hard, harder, insane hard - but maybe little bit more drops
