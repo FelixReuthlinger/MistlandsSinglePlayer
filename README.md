@@ -51,7 +51,8 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
-* 1.1.3 -> replaced auto storing and discarding with better implementations, added multi user chests
+* 1.1.4 -> small mod upgrade
+* 1.1.3 -> replaced auto storing and discarding with better implementations, added multi user chests (might require fresh profile)
 * 1.1.2 -> hard, harder, insane hard - but maybe little bit more drops
 * 1.1.1 -> adding no skill drain as replacement for death tweaks
 * 1.1.0 -> ok, this was too easy, let's make it harder and less item drops
