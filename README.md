@@ -50,6 +50,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.1.7 -> cllc mending/reflective boss abilities decreased
 * 1.1.6 -> mod updates
 * 1.1.5 -> removed rendering limits, since it might not work smoothly with non-high-performance pcs
 * 1.1.4 -> small mod upgrade
