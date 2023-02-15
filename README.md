@@ -50,6 +50,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.3.0 -> Azu merged some mods, might require new profile to get clean mod pack experience; changed mining to have less chance to get ore nodes explode; ofter mod updates
 * 1.2.0 -> mod upgrades mainly, replaced extended inv mod, I think re-creating the profile to download the pack might be a good choice to get all changes set up properly
 * 1.1.7 -> cllc mending/reflective boss abilities decreased
 * 1.1.6 -> mod updates
