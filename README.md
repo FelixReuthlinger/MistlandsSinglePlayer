@@ -50,6 +50,8 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.3.5 -> added deer curry to get rid of those yellow mushrooms
+* 1.3.4 -> added wacky's DB for adding a custom recipe for forging chains
 * 1.3.3 -> added comfort tweaks, changed range to 30m for comfort gained
 * 1.3.2 -> more feathers
 * 1.3.1 -> mod updates and deactivated most better ward protections, so if you coop it is easier to use ;)

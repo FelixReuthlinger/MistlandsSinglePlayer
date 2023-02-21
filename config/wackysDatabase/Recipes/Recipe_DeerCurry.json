@@ -1,0 +1,13 @@
+{
+    "name": "DeerCurry",
+    "clone": true,
+    "clonePrefabName": "DeerCurry",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "CookedDeerMeat:1:1:True",
+        "MushroomYellow:3:1:True"
+    ]
+}

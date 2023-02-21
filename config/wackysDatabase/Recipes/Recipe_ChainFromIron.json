@@ -1,0 +1,12 @@
+{
+    "name": "ChainFromIron",
+    "clone": true,
+    "clonePrefabName": "Chain",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:1:1:True"
+    ]
+}
