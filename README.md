@@ -50,6 +50,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.3.6 -> added regenerative nature mod to let some things re-grow
 * 1.3.5 -> added deer curry to get rid of those yellow mushrooms
 * 1.3.4 -> added wacky's DB for adding a custom recipe for forging chains
 * 1.3.3 -> added comfort tweaks, changed range to 30m for comfort gained
