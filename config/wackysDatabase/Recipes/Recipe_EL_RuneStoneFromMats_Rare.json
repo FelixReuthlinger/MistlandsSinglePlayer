@@ -1,0 +1,15 @@
+{
+    "name": "RunestoneRareFromMats",
+    "clone": true,
+    "clonePrefabName": "RunestoneRare",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DustRare:10:1:True",
+        "ReagentRare:10:1:True",
+        "EssenceRare:10:1:True",
+        "ShardRare:1:1:True"
+    ]
+}

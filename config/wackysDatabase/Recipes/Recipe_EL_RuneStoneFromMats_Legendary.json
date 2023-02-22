@@ -1,0 +1,15 @@
+{
+    "name": "RunestoneLegendaryFromMats",
+    "clone": true,
+    "clonePrefabName": "RunestoneLegendary",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 5,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DustLegendary:10:1:True",
+        "ReagentLegendary:10:1:True",
+        "EssenceLegendary:10:1:True",
+        "ShardLegendary:1:1:True"
+    ]
+}

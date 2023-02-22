@@ -1,0 +1,12 @@
+{
+    "name": "TrophyDraugrEliteFromNormal",
+    "clone": true,
+    "clonePrefabName": "TrophyDraugrElite",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrophyDraugr:50:1:True"
+    ]
+}

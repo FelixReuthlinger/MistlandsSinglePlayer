@@ -1,0 +1,15 @@
+{
+    "name": "RunestoneEpicFromMats",
+    "clone": true,
+    "clonePrefabName": "RunestoneEpic",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DustEpic:10:1:True",
+        "ReagentEpic:10:1:True",
+        "EssenceEpic:10:1:True",
+        "ShardEpic:1:1:True"
+    ]
+}

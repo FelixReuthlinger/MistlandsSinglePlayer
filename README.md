@@ -50,6 +50,8 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.3.9 -> added recipe to get elite draugr trophy from a recipe, since it drops sooo rarely...
+* 1.3.8 -> added some custom recipes for EL to get runestone from too big mats piles
 * 1.3.7 -> warding more from dmg
 * 1.3.6 -> added regenerative nature mod to let some things re-grow
 * 1.3.5 -> added deer curry to get rid of those yellow mushrooms

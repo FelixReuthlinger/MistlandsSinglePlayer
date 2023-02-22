@@ -1,0 +1,15 @@
+{
+    "name": "RunestoneMagicFromMats",
+    "clone": true,
+    "clonePrefabName": "RunestoneMagic",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DustMagic:10:1:True",
+        "ReagentMagic:10:1:True",
+        "EssenceMagic:10:1:True",
+        "ShardMagic:1:1:True"
+    ]
+}
