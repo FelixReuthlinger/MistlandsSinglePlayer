@@ -50,6 +50,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.4.2 -> removed relighting from better wards
 * 1.4.0 -> moved some selected mods that do not change too much and could be re-used playing also other mod packs into their own mod pack (imported here)
 * 1.3.9 -> added recipe to get elite draugr trophy from a recipe, since it drops sooo rarely...
 * 1.3.8 -> added some custom recipes for EL to get runestone from too big mats piles

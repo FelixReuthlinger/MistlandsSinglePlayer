@@ -1,7 +1,7 @@
 {
   "name": "SinglePlayer_ModPack",
   "description": "My personal selection of mods including config changes for a nice and challenging play through, also including changes for Mistlands",
-  "version_number": "1.4.1",
+  "version_number": "1.4.2",
   "website_url": "https://github.com/FelixReuthlinger/MistlandsSinglePlayer",
   "dependencies": [
     "Azumatt-AAA_Crafting-1.0.6",
