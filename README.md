@@ -6,7 +6,13 @@ on death and adds loot and more challenging monster difficulty.
 
 Credits of the mods used in this pack go all to the original mod authors, thx to all for providing these to us.
 
+## Game changes and guidance
+
+Starting from version 2.x.x I introduced different requirements for progression: you will have to kill monsters to raise the sector level of the current area you are in to yield better loot. Better loot will be required for fighting the bosses, do not try fighting those without gearing up, you might be facing too difficult bosses!
+
 ## Features
+
+Note: I moved a lot of mods used indirectly to the other modpack https://valheim.thunderstore.io/package/FixItFelix/SimplePlaystyleEnchancements/ -> check there for more detailed description of features.
 
 * Base building and handling simplified by larger workbench ranges, ward range, ward making buildings indestructible
 * Container handling with auto storing, restocking, trashing, etc.
@@ -31,6 +37,9 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 2.0.0 -> *BREAKING CHANGE*: starting a complete new setup, do not upgrade to this version unless you want to start a new game
+
+---
 * 1.5.0 -> updates for a lot of mods due to Valheim .214, removed some mods here that I added to the playstyle modpack instead
 * 1.4.2 -> removed relighting from better wards
 * 1.4.0 -> moved some selected mods that do not change too much and could be re-used playing also other mod packs into their own mod pack (imported here)
