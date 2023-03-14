@@ -24,25 +24,6 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 * Any portal targeting instead of point-to-point connections
 * ... many more, you will find out ;)
 
-## Config changes
-
-* DeathTweaks -> keep equipment and quick slots on death, reduce skill loss to 1%
-* AAA Crafting -> remove the paginator and set crafting speed to 0 (instant craft on click)
-* Area Repair -> 30m radius
-* Workbench tweaks -> workbench and base size ranges to 50m, extension to 20m
-* Better Wards -> buildings indestructible and range to 50m, turned off notifiers
-* Deezy Mistballs -> radius 50m 
-* Auto Picker -> don't pick Dandelions
-* Path Finder -> reduced discovery radius to something that looks similar to the range one can see dependent on conditions
-* Auto Map Pins -> some that I sense to be valuable I did set to be shown
-* Crafty Boxes -> range to 50m
-* Extended Inventory -> added 2 rows to default inventory (Auto Store seems buggy with last row tho)
-* Conversion size and speed -> increased the storage and throughput
-* CLLC -> set to "very hard" and world age, activated all extras, etc. -> I die a lot, so you will, or not? ;)
-* Extra skills -> experience increased and yield increased
-* Epic Loot -> set to 50% items and 50% mats
-* EAQS -> changed keys to "c,v,b"
-
 ## Hints 
 
 * You can also use this modpack to do coop playing, but if you will join any server using this, it might not work ;)
@@ -50,6 +31,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 ## Change log
 
+* 1.5.0 -> updates for a lot of mods due to Valheim .214, removed some mods here that I added to the playstyle modpack instead
 * 1.4.2 -> removed relighting from better wards
 * 1.4.0 -> moved some selected mods that do not change too much and could be re-used playing also other mod packs into their own mod pack (imported here)
 * 1.3.9 -> added recipe to get elite draugr trophy from a recipe, since it drops sooo rarely...
@@ -83,3 +65,7 @@ Credits of the mods used in this pack go all to the original mod authors, thx to
 
 * https://github.com/FelixReuthlinger/MistlandsSinglePlayer
 * Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
+
+## Attributions
+
+* icon -> https://www.flaticon.com/free-icon/man_9781754?term=single&page=1&position=4&origin=search&related_id=9781754 

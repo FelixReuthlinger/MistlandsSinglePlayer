@@ -1,17 +1,16 @@
 {
   "name": "SinglePlayer_ModPack",
   "description": "My personal selection of mods including config changes for a nice and challenging play through, also including changes for Mistlands",
-  "version_number": "1.4.2",
+  "version_number": "1.5.0",
   "website_url": "https://github.com/FelixReuthlinger/MistlandsSinglePlayer",
   "dependencies": [
     "Azumatt-AAA_Crafting-1.0.6",
     "Azumatt-BetterWards-1.8.6",
-    "FixItFelix-SimplePlaystyleEnchancements-1.0.2",
-    "Kempeth-AutoMapPins-1.3.0",
-    "RandyKnapp-EpicLoot-0.9.8",
+    "FixItFelix-SimplePlaystyleEnchancements-1.2.4",
+    "RandyKnapp-EpicLoot-0.9.9",
     "Smoothbrain-Building-1.2.4",
     "Smoothbrain-ComfortTweaks-3.1.12",
-    "Smoothbrain-CreatureLevelAndLootControl-4.5.4",
+    "Smoothbrain-CreatureLevelAndLootControl-4.5.5",
     "Smoothbrain-Evasion-1.0.2",
     "Smoothbrain-Farming-2.1.8",
     "Smoothbrain-Foraging-1.0.3",
@@ -19,10 +18,9 @@
     "Smoothbrain-Mining-1.1.3",
     "Smoothbrain-PassivePowers-1.0.9",
     "Smoothbrain-Sailing-1.1.5",
-    "Smoothbrain-TargetPortal-1.1.6",
     "Smoothbrain-Tenacity-1.0.2",
     "WackyMole-WackysDatabase-1.4.2",
-    "ValheimModding-Jotunn-2.10.4",
-    "denikson-BepInExPack_Valheim-5.4.1901"
+    "ValheimModding-Jotunn-2.11.0",
+    "denikson-BepInExPack_Valheim-5.4.2100"
   ]
 }
