@@ -1,5 +1,7 @@
 # Single Player ModPack (Mistlands edition)
 
+*WARNING: do not update to 2.x unless you want to start a new game!!! games started under 1.x might behave weird with the new changes...*
+
 This is my selection of mods that I want to use for doing single player play through. 
 These mods do help on (in vanilla still really annoying) daily tedious tasks, you will not loose equipment 
 on death and adds loot and more challenging monster difficulty.
