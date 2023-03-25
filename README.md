@@ -39,6 +39,7 @@ Note: I moved a lot of mods used indirectly to the other modpack https://valheim
 
 ## Change log
 
+* 2.0.1 -> directly integrated UI mod pack instead of indirectly via play-style
 * 2.0.0 -> *BREAKING CHANGE*: starting a complete new setup, do not upgrade to this version unless you want to start a new game
 
 ---

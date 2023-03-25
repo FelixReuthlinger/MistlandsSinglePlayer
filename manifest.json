@@ -1,12 +1,13 @@
 {
   "name": "SinglePlayer_ModPack",
   "description": "My personal selection of mods including config changes for a nice and challenging play through, also including changes for Mistlands",
-  "version_number": "2.0.0",
+  "version_number": "2.0.1",
   "website_url": "https://github.com/FelixReuthlinger/MistlandsSinglePlayer",
   "dependencies": [
     "Azumatt-AAA_Crafting-1.0.6",
     "Azumatt-BetterWards-1.8.6",
     "FixItFelix-SimplePlaystyleEnchancements-1.3.0",
+    "FixItFelix-UserInterfaceTweaks-1.0.0",
     "RandyKnapp-EpicLoot-0.9.9",
     "Smoothbrain-ComfortTweaks-3.1.12",
     "Smoothbrain-CreatureLevelAndLootControl-4.5.5",
